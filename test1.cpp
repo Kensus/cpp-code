@@ -2,5 +2,7 @@
 
 int main()
 {
-  return 0;
+  int x{}; //declare variable x
+    
+    return 0;
 }
