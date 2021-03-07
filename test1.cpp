@@ -1,5 +1,7 @@
 #include<iostream>
 
+int addition(int x, int y);
+
 int main()
 {
   int x{}; //declare variable x
